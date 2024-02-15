@@ -10,7 +10,7 @@
 <br>
 
 
-I am 2nd year student at Alanya Alaaddin Keykubat University. I am studying electrical and electronics engineering. 
+I am 3rd year student at Alanya Alaaddin Keykubat University. I am studying electrical and electronics engineering. 
 
 
 I am good at using Ai and Ps and I am open to improving myself.
