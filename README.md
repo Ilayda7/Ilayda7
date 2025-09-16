@@ -10,14 +10,14 @@
 <br>
 
 
-I am 3rd year student at Alanya Alaaddin Keykubat University. I am studying electrical and electronics engineering. 
+I am 4th year student at Alanya Alaaddin Keykubat University. I am studying electrical and electronics engineering. 
 
 
 I am good at using Ai and Ps and I am open to improving myself.
-I have good Java, intermediate C software knowledge.
-I am developing myself in the field of Backend Web Development. I have basic knowledge in MATLAB, Python, SQL technologies.
+I have good Html, CSS, JS intermediate C software knowledge.
+I am developing myself in the field of Web Development. I have basic knowledge in MATLAB, Python, SQL technologies.
 
-- 🌱 I’m currently learning Java with Backend Web Development Path 
+- 🌱 I’m currently learning Html, CSS, JS with Web Development Path 
 - 💬 Ask me about **any question.**
 - 📫 How to reach me **ilaydarsln7@gmail.com**
 
